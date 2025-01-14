@@ -48,7 +48,7 @@ class _DetailScreenState extends State<DetailScreen> {
                    Padding(
                           padding: EdgeInsets.only(top: MediaQuery.of(context).size.height * .067),
                      child: Card(
-
+                       //  here is column starts
                        child: Column(
                          children: [
                            SizedBox(height: MediaQuery.of(context).size.height * .06,),
